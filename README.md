@@ -31,7 +31,7 @@ To apply this style in Firefox, follow these steps:
 
 That's it! Now your vertical tabs will automatically expand when hovered over. 🚀  
 
->[!tip]
+>[!note]
 >This repository is now deprecated, as Firefox has natively implemented this functionality.
 >However, I’ve included an additional stylesheet (userContent.css) that provides a cleaner, more minimalist look for the Firefox homepage and improves the current tab indicator in vertical tab view, as shown below.
 
