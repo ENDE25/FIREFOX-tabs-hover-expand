@@ -1,5 +1,8 @@
 # Firefox Vertical Tabs Auto-Expand  
 
+>[!WARNING]
+>This repository has been deprecated, as Firefox has already implemented this functionality.
+
 This tweak enables vertical tabs in Firefox to automatically expand when hovering over them, displaying full tab titles with a smooth animation.  
 
 <img src="/demonstration.gif" alt="Demostración" width="450" />
