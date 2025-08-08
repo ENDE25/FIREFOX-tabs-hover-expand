@@ -38,3 +38,6 @@ That's it! Now your vertical tabs will automatically expand when hovered over. ð
 >However, Iâ€™ve included two additional stylesheets [`userContent.css`](/new/userContent.css) and [`userChrome.css`](/new/userChrome.css) that provides a cleaner, more minimalist look for the Firefox homepage and improves the current tab indicator in vertical tab view, as shown below.
 
 <img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/10727147-7f74-4eff-9a66-aca2c8681e19" />
+- current tab indicator
+- more modern icons
+- not firefox branding
