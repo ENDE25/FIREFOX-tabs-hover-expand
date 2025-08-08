@@ -1,0 +1,19 @@
+@-moz-document url(about:home), url(about:newtab), url(about:privatebrowsing) {
+    .click-target-container *, .top-sites-list * {
+        color: #fff !important ;
+        text-shadow: 2px 2px 2px #222 !important ;
+    }
+
+    .logo-and-wordmark {
+      display: none !important;
+    }
+
+    .icon-pin-small {
+      display: none !important;
+    }
+
+    .tile {
+      background-color: rgba(28, 28, 28, 0.7) !important; /* Negro translúcido */
+    }
+
+}
