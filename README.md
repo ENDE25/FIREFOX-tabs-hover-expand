@@ -31,6 +31,7 @@ To apply this style in Firefox, follow these steps:
 
 That's it! Now your vertical tabs will automatically expand when hovered over. 🚀  
 
+---
 
 >[!note]
 >This repository is now deprecated, as Firefox has natively implemented this functionality.
