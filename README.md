@@ -39,6 +39,7 @@ That's it! Now your vertical tabs will automatically expand when hovered over. ð
 
 <img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/10727147-7f74-4eff-9a66-aca2c8681e19" />
 
+Features:
 - current tab indicator
 - more modern icons
 - not firefox branding
